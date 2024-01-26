@@ -1,1 +1,12 @@
-
+[
+  // existing entries
+  {
+    "wallet": "existing_wallet_address",
+    "frontendName": "existing_frontend_name"
+  },
+  // your new entry
+  {
+    "wallet": "your_wallet_address",
+    "frontendName": "your_frontend_name"
+  }
+]
