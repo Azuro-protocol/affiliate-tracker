@@ -8,5 +8,22 @@
   {
     "wallet": "your_wallet_address",
     "frontendName": "your_frontend_name"
+  },
+  
+  {
+    "wallet": "0xfA695010bF9e757a1abCd2703259F419217aa756",
+    "frontendName": "BetSwirl Polygon"
+  },
+  {
+    "wallet": "0x6e36cFcD5d59b96AaBC8699C2Ad31a874224D86e",
+    "frontendName": "BetSwirl Gnosis"
+  },
+  {
+    "wallet": "0xf14C79a7fA22c1f97C779F573c9bF39b6b43381c",
+    "frontendName": "BetSwirl Arbitrum One"
+  },
+  {
+    "wallet": "0x2C305888a456E7004663bc12A74395E637eABCBc",
+    "frontendName": "BetSwirl Linea"
   }
 ]
