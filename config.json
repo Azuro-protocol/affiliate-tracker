@@ -1,15 +1,4 @@
 [
-  // existing entries
-  {
-    "wallet": "existing_wallet_address",
-    "frontendName": "existing_frontend_name"
-  },
-  // your new entry
-  {
-    "wallet": "your_wallet_address",
-    "frontendName": "your_frontend_name"
-  },
-  
   {
     "wallet": "0xfA695010bF9e757a1abCd2703259F419217aa756",
     "frontendName": "BetSwirl Polygon"
@@ -25,5 +14,9 @@
   {
     "wallet": "0x2C305888a456E7004663bc12A74395E637eABCBc",
     "frontendName": "BetSwirl Linea"
-  }
+  },
+  {
+    "wallet": "0x6A09f42f9A42676FaFdB434c9d7933D09D4e2de7",
+    "frontendName": "BoxBet"
+  },
 ]
