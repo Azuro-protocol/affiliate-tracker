@@ -23,5 +23,9 @@
     "wallet": "0x6A09f42f9A42676FaFdB434c9d7933D09D4e2de7",
     "frontendName": "BoxBet"
   },
+  {
+    "wallet": "0x655197974f3789B11ebE4e984AA80c4c9d1A8338",
+    "frontendName": "WagerBot"
+  },
   
 ]
