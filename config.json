@@ -34,6 +34,18 @@
   {
     "wallet": "0x832e8460a0AF78a0d0f7FB6c4fAF12CAAA1FEe62",
     "frontendName": "DexWin"
+  },
+  {
+    "wallet": "0x8776c52aA89474EbE6A2159f4C779B1aBdC24Bf9",    
+    "frontendName": "Gamblr.xyz Polygon"
+  },    
+  {
+    "wallet": "0xAd4380DFb09F4c9cB8Df3f17345A4DFA2fAD4293",    
+    "frontendName": "Gamblr.xyz Gnosis"
+  },  
+  {
+    "wallet": "0xAd4380DFb09F4c9cB8Df3f17345A4DFA2fAD4293",    
+    "frontendName": "Gamblr.xyz Arbitrum One"
   }
   
 ]
