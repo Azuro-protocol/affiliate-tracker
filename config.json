@@ -46,6 +46,9 @@
   {
     "wallet": "0xAd4380DFb09F4c9cB8Df3f17345A4DFA2fAD4293",    
     "frontendName": "Gamblr.xyz Arbitrum One"
+  },  
+  {
+    "wallet": "0x7923fa84Fb43D0A471bbaF8831c178BEd876ad41",    
+    "frontendName": "Bitruby"
   }
-  
 ]
