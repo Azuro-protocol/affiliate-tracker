@@ -50,5 +50,9 @@
   {
     "wallet": "0x7923fa84Fb43D0A471bbaF8831c178BEd876ad41",    
     "frontendName": "Bitruby"
+  },
+  {
+    "wallet": "0xaF3f7d18df2068330Ec3c3FfC41df6bE6161AA7d",    
+    "frontendName": "AIWinBet"
   }
 ]
