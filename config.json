@@ -54,5 +54,9 @@
   {
     "wallet": "0xaF3f7d18df2068330Ec3c3FfC41df6bE6161AA7d",    
     "frontendName": "AIWinBet"
+  },
+  {
+    "wallet": "0x4126Bb708458fe7C9126DD7854255F57ac3e1d67",
+    "frontendName": "Metavault.Trade"
   }
 ]
