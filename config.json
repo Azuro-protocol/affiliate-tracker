@@ -58,5 +58,9 @@
   {
     "wallet": "0x4126Bb708458fe7C9126DD7854255F57ac3e1d67",
     "frontendName": "Metavault.Trade"
+  },
+  {
+     "wallet": "0x3fb0e489c94f0ce818106902131641d7a71a282d",
+     "frontendName": "Sendpicks"
   }
 ]
