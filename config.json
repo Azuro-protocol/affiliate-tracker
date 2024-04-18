@@ -62,9 +62,13 @@
   {
      "wallet": "0x3fb0e489c94f0ce818106902131641d7a71a282d",
      "frontendName": "Sendpicks"
-  }
+  },
   {
      "wallet": "0x75F445B1D5605914E50C1Ba1caF59F958f8257cc",
      "frontendName": "Unibets.ai"
+  },
+  {
+    "wallet": "0x16969b1fDC2F44Dc40890c8B0f92a8E1AAb3641d",
+    "frontendName": "0xBet"
   }
 ]
