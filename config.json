@@ -1,5 +1,9 @@
 [
   {
+    "wallet": "0x1D4bcFfcEDE6004241a8827D5C2457c01d5c9112",
+    "frontendName": "Ridotto.io"
+  },
+  {
     "wallet": "0xfA695010bF9e757a1abCd2703259F419217aa756",
     "frontendName": "BetSwirl Polygon"
   },
@@ -27,7 +31,7 @@
     "wallet": "0x655197974f3789B11ebE4e984AA80c4c9d1A8338",
     "frontendName": "WagerBot"
   },
-    {
+  {
     "wallet": "0x474dDa38A1391b0241C17BAA285E33C1293A54D1",
     "frontendName": "GambleFukkers"
   },
@@ -36,23 +40,23 @@
     "frontendName": "DexWin"
   },
   {
-    "wallet": "0x8776c52aA89474EbE6A2159f4C779B1aBdC24Bf9",    
+    "wallet": "0x8776c52aA89474EbE6A2159f4C779B1aBdC24Bf9",
     "frontendName": "Gamblr.xyz Polygon"
-  },    
+  },
   {
-    "wallet": "0xAd4380DFb09F4c9cB8Df3f17345A4DFA2fAD4293",    
+    "wallet": "0xAd4380DFb09F4c9cB8Df3f17345A4DFA2fAD4293",
     "frontendName": "Gamblr.xyz Gnosis"
-  },  
+  },
   {
-    "wallet": "0xAd4380DFb09F4c9cB8Df3f17345A4DFA2fAD4293",    
+    "wallet": "0xAd4380DFb09F4c9cB8Df3f17345A4DFA2fAD4293",
     "frontendName": "Gamblr.xyz Arbitrum One"
-  },  
+  },
   {
-    "wallet": "0x7923fa84Fb43D0A471bbaF8831c178BEd876ad41",    
+    "wallet": "0x7923fa84Fb43D0A471bbaF8831c178BEd876ad41",
     "frontendName": "Bitruby"
   },
   {
-    "wallet": "0xaF3f7d18df2068330Ec3c3FfC41df6bE6161AA7d",    
+    "wallet": "0xaF3f7d18df2068330Ec3c3FfC41df6bE6161AA7d",
     "frontendName": "AIWinBet"
   },
   {
@@ -60,12 +64,12 @@
     "frontendName": "Metavault.Trade"
   },
   {
-     "wallet": "0x3fb0e489c94f0ce818106902131641d7a71a282d",
-     "frontendName": "Sendpicks"
+    "wallet": "0x3fb0e489c94f0ce818106902131641d7a71a282d",
+    "frontendName": "Sendpicks"
   },
   {
-     "wallet": "0x75F445B1D5605914E50C1Ba1caF59F958f8257cc",
-     "frontendName": "Unibets.ai"
+    "wallet": "0x75F445B1D5605914E50C1Ba1caF59F958f8257cc",
+    "frontendName": "Unibets.ai"
   },
   {
     "wallet": "0x16969b1fDC2F44Dc40890c8B0f92a8E1AAb3641d",
