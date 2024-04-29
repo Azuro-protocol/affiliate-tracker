@@ -72,6 +72,14 @@
     "frontendName": "Unibets.ai"
   },
   {
+     "wallet": "0x75F445B1D5605914E50C1Ba1caF59F958f8257cc",
+     "frontendName": "Unibets.ai"
+  },
+  {
+     "wallet": "0x8C5810DEa67CF3516B9EE2076F7e58229F2c451E",
+     "frontendName": "ChainWager"
+  },
+  {
     "wallet": "0x16969b1fDC2F44Dc40890c8B0f92a8E1AAb3641d",
     "frontendName": "0xBet"
   }
