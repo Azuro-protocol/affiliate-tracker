@@ -82,5 +82,9 @@
   {
     "wallet": "0x16969b1fDC2F44Dc40890c8B0f92a8E1AAb3641d",
     "frontendName": "0xBet"
+  },
+  {
+    "wallet": "0x2B2106D98885aFfcad3a0482427FFfA30a2c9D63",
+    "frontendName": "Onchainbets.xyz"
   }
 ]
