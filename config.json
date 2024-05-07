@@ -86,5 +86,9 @@
   {
     "wallet": "0x2B2106D98885aFfcad3a0482427FFfA30a2c9D63",
     "frontendName": "Onchainbets.xyz"
+  },
+  {
+    "wallet": "0x39861ad41E6e4C43eD8C3423Be5eF6fAF91a3f84",
+    "frontendName": "DGBet"
   }
 ]
