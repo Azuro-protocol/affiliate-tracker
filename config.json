@@ -90,5 +90,9 @@
   {
     "wallet": "0x39861ad41E6e4C43eD8C3423Be5eF6fAF91a3f84",
     "frontendName": "DGBet"
+  },
+  {
+    "wallet": "0x8FC269057cA5aB85206cF32a43a0bFce6703bD0e",
+    "frontendName": "gib.casino"
   }
 ]
