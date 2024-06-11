@@ -102,5 +102,9 @@
   {
     "wallet": "0x452c67EdEb2F9ee0de4dDf018C7ECec182515e18",
     "frontendName": "Yez.bet"
+  },
+  {
+    "wallet": "0x5312ea0eE8d07b273694f984067640767A10a229",
+    "frontendName": "Cochilli"
   }
 ]
