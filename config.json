@@ -98,5 +98,9 @@
   {
     "wallet": "0xFb5E0A4007da6Ea064E6a1014be73063D78F8554",
     "frontendName": "PEPEbet.ai Polygon"
+  },
+  {
+    "wallet": "0x452c67EdEb2F9ee0de4dDf018C7ECec182515e18",
+    "frontendName": "Yez.bet"
   }
 ]
