@@ -106,5 +106,9 @@
   {
     "wallet": "0x5312ea0eE8d07b273694f984067640767A10a229",
     "frontendName": "Cochilli"
+  },
+  {
+    "wallet": "0x2031c45c72aa77B852EE483d211BF126857595e0",
+    "frontendName": "Sport-x-Bet"
   }
 ]
