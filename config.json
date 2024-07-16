@@ -106,5 +106,9 @@
   {
     "wallet": "0x5312ea0eE8d07b273694f984067640767A10a229",
     "frontendName": "Cochilli"
+  },
+  {
+    "wallet": "0xDc5055351a230de961C383A6592864EfF1032cda",
+    "frontendName": "WakandaBet"
   }
 ]
