@@ -110,5 +110,9 @@
   {
     "wallet": "0xDc5055351a230de961C383A6592864EfF1032cda",
     "frontendName": "WakandaBet"
+  },
+  {
+    "wallet": "0xE7A7981CF818e84BB6bEd7EABd0c7D69AD78C9Bd",
+    "frontendName": "Giraft"
   }
 ]
