@@ -110,5 +110,17 @@
   {
     "wallet": "0x2031c45c72aa77B852EE483d211BF126857595e0",
     "frontendName": "Sport-x-Bet"
+  },
+  {
+    "wallet": "0xDc5055351a230de961C383A6592864EfF1032cda",
+    "frontendName": "WakandaBet"
+  },
+  {
+    "wallet": "0xE7A7981CF818e84BB6bEd7EABd0c7D69AD78C9Bd",
+    "frontendName": "Giraft"
+  },
+  {
+    "wallet": "0xE1A8f12FC65C9C9dd1071d6a120Ecb44ECfB153c",
+    "frontendName": "p2pBet"
   }
 ]
