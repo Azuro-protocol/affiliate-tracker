@@ -122,5 +122,9 @@
   {
     "wallet": "0xE1A8f12FC65C9C9dd1071d6a120Ecb44ECfB153c",
     "frontendName": "p2pBet"
+  },
+  {
+    "wallet": "0x62b24BF038DD62Cdc607d71ACE92200c1185B541",
+    "frontendName": "streetbets"
   }
 ]
