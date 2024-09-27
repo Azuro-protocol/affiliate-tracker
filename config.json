@@ -126,5 +126,9 @@
   {
     "wallet": "0x62b24BF038DD62Cdc607d71ACE92200c1185B541",
     "frontendName": "streetbets"
+  },
+  {
+  "wallet": "0x57327558C930f3BD19943d2d5BE2cF4a6183e37E",
+  "frontendName": "gambi.fi"
   }
 ]
