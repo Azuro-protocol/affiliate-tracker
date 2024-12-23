@@ -134,5 +134,9 @@
   {
     "wallet": "0x237874A8b09e9a1C5A8f37bfeb6B6f86fBc5D741",
     "frontendName": "betdefi.io"
+  },
+  {
+    "wallet": "0x22208c7A6458a5Ab26c0A22c5B4E5e7601134366",
+    "frontendName": "Only100x"
   }
 ]
