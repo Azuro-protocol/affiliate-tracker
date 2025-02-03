@@ -138,5 +138,9 @@
   {
     "wallet": "0x53aaf4467cf44cdf0572fB4BDEf4c13F30c62694",
     "frontendName": "Only100x"
+  },
+  {
+    "wallet": "0x5f7C1Ade486eF52D03F38F6363585079f8dd229c",
+    "frontendName": "Pinwin"
   }
 ]
