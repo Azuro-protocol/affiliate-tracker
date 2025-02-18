@@ -20,6 +20,10 @@
     "frontendName": "BetSwirl Linea"
   },
   {
+    "wallet": "0xBf1998e1F1cD52fBfb63e7E646bb39c091A7B70A",
+    "frontendName": "BetSwirl Base"
+  },
+  {
     "wallet": "0x2e6816Ce8e1aC9588a245cEB1b39dd75b6066D25",
     "frontendName": "Purebet"
   },
