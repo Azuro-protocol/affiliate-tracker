@@ -144,6 +144,10 @@
     "frontendName": "Only100x"
   },
   {
+    "wallet": "0xba87a3d49890826119B0679D523422426EDe96FC",
+    "frontendName": "Lakshmi"
+  },
+  {
     "wallet": "0x5f7C1Ade486eF52D03F38F6363585079f8dd229c",
     "frontendName": "Pinwin"
   }
