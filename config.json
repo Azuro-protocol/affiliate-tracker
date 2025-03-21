@@ -150,5 +150,13 @@
   {
     "wallet": "0x5f7C1Ade486eF52D03F38F6363585079f8dd229c",
     "frontendName": "Pinwin"
+  },
+  {
+    "wallet": "0x15290cd9955154de5d18E0Cc1ef375bb7f9F2e26",
+    "frontendName": "AsiaBet Polygon"
+  },
+  {
+    "wallet": "0x7b8f2Cf3e85B208fB0835f57B441F66A37BffC92",
+    "frontendName": "AsiaBet Gnosis"
   }
 ]
